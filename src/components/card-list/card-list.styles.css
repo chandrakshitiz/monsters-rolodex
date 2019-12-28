@@ -1,0 +1,11 @@
+.container
+{
+    padding: 20px 100px;
+    display:flex;
+}
+.grid-container
+{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr; 
+    grid-gap:20px;
+}

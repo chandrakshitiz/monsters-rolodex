@@ -1,0 +1,11 @@
+.carditem
+{
+    background-color:rgb(101, 195, 207);
+    box-shadow:2px 2px 2px;
+    padding:25px;
+    text-align:center;
+}
+.carditem:hover
+{
+    transform:rotate(3deg);
+}
